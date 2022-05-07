@@ -8,10 +8,12 @@
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "cssesc": "^3.0.0",
+    "firebase": "^9.8.0",
     "nanoid": "^3.3.4",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.30.0",
     "react-icons": "^4.3.1",
     "tailwind-scrollbar-hide": "^1.1.7"
   },
